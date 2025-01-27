@@ -4,7 +4,7 @@
               
 
 <p>Welcome to my page!
-<br>Hi, I'm Bora. I'm studying Computer Programming at Bandırma Onyedi Eylül University.
+<br>Hi, i am Bora. I am studying Computer Programming at Bandırma Onyedi Eylül University.
 
 
 ## 🌐 Socials:
